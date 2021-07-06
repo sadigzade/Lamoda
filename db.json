@@ -1,0 +1,501 @@
+[
+    {
+        "id": "092C04C4",
+        "category": "women",
+        "brand": "Eazyway",
+        "name": "Тайтсы",
+        "cost": 2890,
+        "color": [
+            "Черный/Черный",
+            "Черный/Красный"
+        ],
+        "sizes": [
+            "40/42",
+            "42/44",
+            "44/46"
+        ],
+        "photo": "MP002XW060O4_13625731_1_v1.jpg",
+        "preview": "MP002XW060O4_13625731_1_v2.jpg"
+    },
+    {
+        "id": "CD32D6F8",
+        "category": "women",
+        "brand": "New Balance",
+        "name": "Леггинсы NB Essentials Botanical Legging",
+        "cost": 2999,
+        "sizes": [
+            "40/42",
+            "42/44",
+            "44/46",
+            "46/48",
+            "48/50"
+        ],
+        "photo": "NE007EWMSTP9_14530060_1_v1.jpg",
+        "preview": "NE007EWMSTP9_14530060_1_v2.jpg"
+    },
+    {
+        "id": "1ACC55DD",
+        "category": "women",
+        "brand": "Dali",
+        "name": "Джинсы",
+        "cost": 3199,
+        "sizes": [
+            "40/42",
+            "42",
+            "42/44",
+            "44",
+            "44/46",
+            "46"
+        ],
+        "photo": "RTLAAG699301_14109017_1_v1.jpg",
+        "preview": "RTLAAG699301_14109017_1_v2.jpg"
+    },
+    {
+        "id": "5846D302",
+        "category": "women",
+        "brand": "Dali",
+        "name": "Джинсы",
+        "cost": 3599,
+        "color": [
+            "Мультиколор",
+            "Голубой"
+        ],
+        "sizes": [
+            "40/42",
+            "42",
+            "42/44"
+        ],
+        "photo": "RTLAAH106801_14109125_1_v1.jpg",
+        "preview": "RTLAAH106801_14109125_1_v2.jpg"
+    },
+    {
+        "id": "7B376F15",
+        "category": "women",
+        "brand": "Max&Co",
+        "name": "Пальто JET",
+        "cost": 38900,
+        "color": [
+            "Черный",
+            "Бежевый"
+        ],
+        "sizes": [
+            "40",
+            "42",
+            "44",
+            "46",
+            "48"
+        ],
+        "photo": "RTLAAK612301_14538241_1_v1.jpg",
+        "preview": "RTLAAK612301_14538241_1_v2.jpg"
+    },
+    {
+        "id": "B838B70E",
+        "category": "women",
+        "brand": "Euros Style",
+        "name": "Куртка джинсовая",
+        "cost": 4500,
+        "sizes": [
+            "42/46"
+        ],
+        "photo": "MP002XW06UN3_14130289_1_v1.jpg",
+        "preview": "MP002XW06UN3_14130289_1_v2.jpg"
+    },
+    {
+        "id": "14058BE1",
+        "category": "women",
+        "brand": "Love Republic",
+        "name": "Жакет",
+        "cost": 4599,
+        "sizes": [
+            "40",
+            "42",
+            "44",
+            "46",
+            "48"
+        ],
+        "photo": "MP002XW06GQ5_13962734_1_v1.jpg",
+        "preview": "MP002XW06GQ5_13962734_1_v2.jpg"
+    },
+    {
+        "id": "CA3DADEC",
+        "category": "women",
+        "brand": "Sashyou",
+        "name": "Жакет",
+        "cost": 8900,
+        "sizes": [
+            "40/42",
+            "42/44",
+            "44/46",
+            "46/48",
+            "48/50",
+            "50/52"
+        ],
+        "photo": "MP002XW075PI_14315542_1_v1.jpg",
+        "preview": "MP002XW075PI_14315542_1_v2.jpg"
+    },
+    {
+        "id": "B7F325C0",
+        "category": "women",
+        "brand": "Adidas",
+        "name": "Костюм спортивный W TS CO ENERGIZ",
+        "cost": 7999,
+        "sizes": [
+            "40/42",
+            "42/44",
+            "46/48",
+            "48/50",
+            "52/54"
+        ],
+        "photo": "AD002EWLUHE3_13165507_1_v1.jpg",
+        "preview": "AD002EWLUHE3_13165507_1_v2.jpg"
+    },
+    {
+        "id": "25B35A6A",
+        "category": "women",
+        "brand": "Joymiss",
+        "name": "Костюм спортивный",
+        "cost": 8800,
+        "sizes": [
+            "42",
+            "44",
+            "46",
+            "48"
+        ],
+        "photo": "MP002XW0Q9SP_8840462_1_v1.jpg",
+        "preview": "MP002XW0Q9SP_8840462_1_v2.jpg"
+    },
+    {
+        "id": "49FA52FB",
+        "category": "women",
+        "brand": "Fors",
+        "name": "Топ",
+        "cost": 3950,
+        "sizes": [
+            "40/42",
+            "42/44",
+            "44/46",
+            "46/48"
+        ],
+        "photo": "MP002XW14T1R_11615827_1_v1.jpg",
+        "preview": "MP002XW14T1R_11615827_1_v2.jpg"
+    },
+    {
+        "id": "5481519A",
+        "category": "women",
+        "brand": "Befree",
+        "name": "Топ Exclusive online",
+        "cost": 599,
+        "color": [
+            "Черный",
+            "Белый",
+            "Хаки",
+            "Бирюзовый",
+            "Фиолетовый",
+            "Розовый"
+        ],
+        "sizes": [
+            "42",
+            "44",
+            "46",
+            "48"
+        ],
+        "photo": "MP002XW06VXS_14089904_1.jpg",
+        "preview": "MP002XW06VXS_14089904_2.jpg"
+    },
+    {
+        "id": "6AC9EAA8",
+        "category": "men",
+        "brand": "Avirex",
+        "name": "Шорты",
+        "cost": 8499,
+        "color": [
+            "Бежевый",
+            "Серый",
+            "Хаки"
+        ],
+        "sizes": [
+            "46",
+            "48",
+            "50",
+            "52",
+            "54",
+            "56"
+        ],
+        "photo": "AV012EMIMUG4_11404995_1_v1.jpg",
+        "preview": "AV012EMIMUG4_11404995_1_v2.jpg"
+    },
+    {
+        "id": "55565D60",
+        "category": "men",
+        "brand": "O'stin",
+        "name": "Куртка",
+        "cost": 3999,
+        "sizes": [
+            "44/46",
+            "48",
+            "50/52",
+            "54/56"
+        ],
+        "photo": "MP002XM1HC3S_13703268_1_v1.jpg",
+        "preview": "MP002XM1HC3S_13703268_1_v2.jpg"
+    },
+    {
+        "id": "2E0179D9",
+        "category": "men",
+        "brand": "Brave Soul",
+        "name": "Футболка",
+        "cost": 899,
+        "sizes": [
+            "46/48",
+            "48/50",
+            "50/52",
+            "52/54",
+            "54/56"
+        ],
+        "photo": "RTLAAH915201_14410997_1_v1.jpg",
+        "preview": "RTLAAH915201_14410997_1_v2.jpg"
+    },
+    {
+        "id": "991975D7",
+        "category": "men",
+        "brand": "Adidas",
+        "name": "Брюки спортивные M SL FL TC PT",
+        "cost": 3399,
+        "sizes": [
+            "40/42",
+            "44/46",
+            "48/50",
+            "52/54",
+            "56/58",
+            "60/62"
+        ],
+        "photo": "AD002EMLUEA8_14164246_1_v1.jpg",
+        "preview": "AD002EMLUEA8_14164246_1_v2.jpg"
+    },
+    {
+        "id": "631C1DF2",
+        "category": "men",
+        "brand": "EA7",
+        "name": "Брюки спортивные",
+        "cost": 10999,
+        "color": [
+            "Синий",
+            "Черный",
+            "Серый"
+        ],
+        "sizes": [
+            "46/48",
+            "48/50",
+            "50/52",
+            "52/54",
+            "54/56",
+            "56/58"
+        ],
+        "photo": "RTLAAC186501_13613543_1_v1.jpg",
+        "preview": "RTLAAC186501_13613543_1_v2.jpg"
+    },
+    {
+        "id": "525F8249",
+        "category": "men",
+        "brand": "Oodji",
+        "name": "Рубашка",
+        "cost": 999,
+        "sizes": [
+            "46/48",
+            "48/50",
+            "50/52",
+            "52/54",
+            "54/56"
+        ],
+        "photo": "MP002XM20MOI_10076303_1_v1.jpg",
+        "preview": "MP002XM20MOI_10076303_1_v2.jpg"
+    },
+    {
+        "id": "22A4C94F",
+        "category": "men",
+        "brand": "Brave Soul",
+        "name": "Рубашка",
+        "cost": 1799,
+        "sizes": [
+            "46/48",
+            "48/50",
+            "50/52",
+            "52/54"
+        ],
+        "photo": "RTLAAE350201_13954485_1_v1.jpg",
+        "preview": "RTLAAE350201_13954485_1_v2.jpg"
+    },
+    {
+        "id": "F8B33B52",
+        "category": "men",
+        "brand": "Красная Жара",
+        "name": "Шляпа",
+        "cost": 1090,
+        "photo": "MP002XM0MT2L_12444872_9_v1.jpg",
+        "preview": "MP002XM0MT2L_12444872_9_v2.jpg"
+    },
+    {
+        "id": "134ED66E",
+        "category": "kids",
+        "brand": "PlayToday",
+        "name": "Шляпа",
+        "cost": 899,
+        "sizes": [
+            "50",
+            "52"
+        ],
+        "photo": "MP002XG01LJ8_13412039_1_v1.jpg",
+        "preview": "MP002XG01LJ8_13412039_1_v2.jpg"
+    },
+    {
+        "id": "1BDF0DF2",
+        "category": "kids",
+        "brand": "Acoola",
+        "name": "Шорты джинсовые",
+        "cost": 799,
+        "sizes": [
+            "98",
+            "104",
+            "110",
+            "116",
+            "122",
+            "128"
+        ],
+        "photo": "MP002XG01REQ_14210247_1_v1.jpg",
+        "preview": "MP002XG01REQ_14210247_1_v2.jpg"
+    },
+    {
+        "id": "1044AD26",
+        "category": "kids",
+        "brand": "O'stin",
+        "name": "Шорты",
+        "cost": 599,
+        "sizes": [
+            "128",
+            "134",
+            "140",
+            "146",
+            "152",
+            "158"
+        ],
+        "photo": "MP002XG01K1E_13207928_1_v1.jpg",
+        "preview": "MP002XG01K1E_13207928_1_v2.jpg"
+    },
+    {
+        "id": "16A43C1D",
+        "category": "kids",
+        "brand": "Name It",
+        "name": "Куртка",
+        "cost": 3399,
+        "sizes": [
+            "80",
+            "86",
+            "92",
+            "89",
+            "104",
+            "110"
+        ],
+        "photo": "RTLAAE736501_14002734_1_v1.jpg",
+        "preview": "RTLAAE736501_14002734_1_v2.jpg"
+    },
+    {
+        "id": "72E074E5",
+        "category": "kids",
+        "brand": "PlayToday",
+        "name": "Джинсы",
+        "cost": 2399,
+        "sizes": [
+            "98",
+            "104",
+            "110",
+            "116",
+            "122"
+        ],
+        "photo": "MP002XG01M3E_13558114_1_v1.jpg",
+        "preview": "MP002XG01M3E_13558114_1_v2.jpg"
+    },
+    {
+        "id": "23BF8BD6",
+        "category": "kids",
+        "brand": "Acoola",
+        "name": "Джинсы",
+        "cost": 1999,
+        "sizes": [
+            "134",
+            "140",
+            "146",
+            "152",
+            "158",
+            "164"
+        ],
+        "photo": "MP002XG01NUC_13676491_1_v1.jpg",
+        "preview": "MP002XG01NUC_13676491_1_v2.jpg"
+    },
+    {
+        "id": "19A522AD",
+        "category": "kids",
+        "brand": "Acoola",
+        "name": "Футболка",
+        "cost": 399,
+        "sizes": [
+            "98",
+            "104",
+            "110",
+            "116",
+            "122",
+            "128"
+        ],
+        "photo": "MP002XG01S9U_14477450_1_v1.jpg",
+        "preview": "MP002XG01S9U_14477450_1_v2.jpg"
+    },
+    {
+        "id": "1960BE17",
+        "category": "kids",
+        "brand": "Koton",
+        "name": "Платье",
+        "cost": 599,
+        "sizes": [
+            "98/104",
+            "104/110",
+            "110/116",
+            "116/122",
+            "122/128",
+            "134/140"
+        ],
+        "photo": "RTLAAJ897601_14395361_1_v1.jpg",
+        "preview": "RTLAAJ897601_14395361_1_v2.jpg"
+    },
+    {
+        "id": "D0417BEF",
+        "category": "kids",
+        "brand": "Acoola",
+        "name": "Платье",
+        "cost": 1299,
+        "sizes": [
+            "98",
+            "104",
+            "110",
+            "116",
+            "122",
+            "128"
+        ],
+        "photo": "MP002XG0147V_11514976_1_v1.jpg",
+        "preview": "MP002XG0147V_11514976_1_v2.jpg"
+    },
+    {
+        "id": "CB9F996E",
+        "category": "kids",
+        "brand": "RoxyFoxy",
+        "name": "Платье",
+        "cost": 1090,
+        "sizes": [
+            "98",
+            "104",
+            "110",
+            "116",
+            "122"
+        ],
+        "photo": "MP002XG01QDG_14120487_1_v1.jpg",
+        "preview": "MP002XG01QDG_14120487_1_v2.jpg"
+    }
+]

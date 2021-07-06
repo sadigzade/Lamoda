@@ -1,0 +1,60 @@
+.header {
+    background-color: #000;
+    color: #fff;
+    &__wrapper {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: $height-header;
+        line-height: $height-header;
+    }
+    &__city-button {
+        background-color: transparent;
+        color: inherit;
+        padding: 0 12px;
+        border: none;
+        height: 100%;
+        transition: background-color 0.3s;
+        &:hover {
+            background-color: #0060d2;
+        }
+        @media (max-width: 480px) {
+            margin: 0 auto;
+        }
+    }
+    &__right-block {
+        display: flex;
+        gap: 15px;
+        height: 100%;
+        @media (max-width: 480px) {
+            display: none;
+        }
+    }
+
+    &__pay, &__delivery {
+        align-self: center;
+        height: 100%;
+        cursor: pointer;
+        transition: background-color 0.3s;
+        &:hover {
+            background-color: #0060d2;
+        }
+        @media (max-width: 768px) {
+            display: none;
+        }
+    }
+
+    &__birthday{
+        display: flex;
+        padding: 8px 24px;
+        align-items: center;
+        background-color: #f93c00;
+        max-height: 100%;
+        &-img {
+            max-height: 100%;
+        }
+        *:not(:last-child) {
+            margin-right: 5px;
+        }
+        
+}}

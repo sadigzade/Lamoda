@@ -1,0 +1,82 @@
+.goods {
+
+    padding-bottom: 30px;
+    &__title {
+        margin-bottom: 30px;
+        @media (max-width: 480px) {
+            text-align: center;
+        }
+    }
+    &__list {
+        display: grid;
+        gap: 30px;
+        grid-template-columns: repeat(4, 1fr);
+        @media (max-width: 1024px) {
+            grid-template-columns: repeat(3, 1fr);
+        }
+
+        @media (max-width: 768px) {
+            grid-template-columns: repeat(2, 1fr);
+        }
+
+        @media (max-width: 480px) {
+            grid-template-columns: 1fr;
+        }
+    }
+
+    &__item {
+        justify-self: center;
+    }
+
+
+}
+
+.good {
+    box-shadow: 0px 0px 3px #ccc;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    &:hover {
+        box-shadow: 0px 0px 5px #aaa;
+    }
+    @media (max-width: 480px) {
+        max-width: 320px;
+    }
+    &__price {
+        font-weight: 700;
+        margin-bottom: 10px;
+        text-align: left;
+    }
+    &__title {
+        font-weight: 400;
+        margin-bottom: 10px;
+        text-align: left;
+        &__grey {
+            color: #888;
+        }
+    }
+    &__sizes {
+        margin-bottom: 10px;
+        color: #888;
+        text-align: left;
+    }
+    &__link {
+        align-self: end;
+        background-image: url("../image/more.svg");
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: left;
+        margin: 0 auto;
+        padding-left: 20px;
+    }
+    &__description {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(4, auto);
+        justify-content:end;
+        height: 100%;
+        padding: 15px;
+        text-align: center;
+        font-size: 13px;
+    }
+}

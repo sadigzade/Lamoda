@@ -1,0 +1,133 @@
+.footer {
+    padding: 25px 0;
+    background-color: #000;
+    color: #fff;
+
+    &__columns {
+        display: grid;
+        justify-content: space-between;
+        gap: 30px;
+        grid-template-columns: repeat(4, 1fr);
+
+        @media (max-width: 1096px) {
+            grid-template-columns: repeat(2, 1fr);
+        }
+
+        @media (max-width: 520px) {
+            grid-template-columns: 1fr;
+        }
+
+    }
+
+    &__column {
+        &-title {
+            margin-bottom: 10px;
+        }
+
+        &-list:not(:last-child) {
+            margin-bottom: 20px;
+        }
+
+        &-item {
+            margin-bottom: 5px;
+        }
+
+    }
+
+    &__column-icons {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        margin-bottom: 10px;
+    }
+
+    &__column-icons__app {
+        flex-direction: column;
+        align-items: flex-start;
+    
+    }
+
+    &__social-item {
+        display: block;
+        width: 24px;
+        height: 24px;
+        background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+    &__social-item_fb {
+        background-image: url(../image/facebook.svg);
+        &:hover {
+            background-image: url(../image/facebook_hover.svg);
+        }
+    }
+
+    &__social-item_vk {
+        background-image: url(../image/vk.svg);
+        &:hover {
+            background-image: url(../image/vk_hover.svg);
+        }
+    }
+
+    &__social-item_yt {
+        background-image: url(../image/youtube.svg);
+        &:hover {
+            background-image: url(../image/youtube_hover.svg);
+        }
+    }
+
+    &__social-item_ig {
+        background-image: url(../image/instagram.svg);
+        &:hover {
+            background-image: url(../image/instagram_hover.svg);
+        }
+    }
+
+    &__column-icon {
+        display: block;
+        background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+    &__icon-mastercard {
+        width: 43px;
+    height: 28px;
+        background-image: url(../image/footer__icon-mastercard.svg);
+    }
+
+    &__icon-visa {
+        width: 49px;
+    height: 16px;
+        background-image: url(../image/footer__icon-visa.svg);
+    }
+
+    &__icon-mir {
+        width: 57px;
+    height: 16px;
+        background-image: url(../image/footer__icon-mir.svg);
+    }
+
+    &__block-icon {
+        display: block;
+        width: 85px;
+        height: 25px;
+        background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+    &__icon-appstore {
+        background-image: url(../image/footer__icon-appstore.svg);
+    }
+
+    &__icon-googleplay {
+        background-image: url(../image/footer__icon-googleplay.svg);
+    }
+
+    &__icon-huaweistore {
+        background-image: url(../image/footer__icon-huaweistore.svg);
+    }
+
+}
